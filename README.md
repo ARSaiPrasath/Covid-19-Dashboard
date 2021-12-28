@@ -6,7 +6,6 @@ Interactive Covid-19 Dashboard
 
 
 Global numbers and Deaths per continent
-
 ![Global numbers and Deaths per continent](https://user-images.githubusercontent.com/79992803/147592203-99a45f06-e1b7-425f-8705-dc677b1bd260.png)
 
 Percent Population Infected per Country
