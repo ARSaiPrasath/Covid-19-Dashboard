@@ -2,9 +2,11 @@
 Inspecting the total cases and deaths by analyzing through continents and countries by presenting interactive visualizations
 
 Interactive Covid-19 Dashboard
-![Dashboard](https://user-images.githubusercontent.com/79992803/147592078-6066ab61-d182-47bd-aa8d-0b0e99ad7c16.png)
+![Dashboard](https://user-images.githubusercontent.com/79992803/147592691-b2d9b40c-3af3-4983-9209-a52d9879ea2f.png)
+
 
 Global numbers and Deaths per continent
+
 ![Global numbers and Deaths per continent](https://user-images.githubusercontent.com/79992803/147592203-99a45f06-e1b7-425f-8705-dc677b1bd260.png)
 
 Percent Population Infected per Country
